@@ -13,7 +13,7 @@
 # agenda
 - [AndroidStudioのproxy設定](https://github.com/Veget-ables/proxy_setting_AndroidStudio3.1#androidstudio%E3%81%AEproxy%E8%A8%AD%E5%AE%9A)
 - Gradleのproxy設定
-   - [従来のやり方](https://github.com/Veget-ables/proxy_setting_AndroidStudio3.1#%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9)
+   - [従来のやり方](https://github.com/Veget-ables/proxy_setting_AndroidStudio3.1#%E5%BE%93%E6%9D%A5%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9)
    - [AndroidStudio3.1以降のやり方](https://github.com/Veget-ables/proxy_setting_AndroidStudio3.1#androidstudio31%E4%BB%A5%E9%99%8D%E3%81%AE%E3%82%84%E3%82%8A%E6%96%B9)
 - Extra
    - [proxyの設定を戻す](https://github.com/Veget-ables/proxy_setting_AndroidStudio3.1#proxy%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%82%92%E6%88%BB%E3%81%99)
